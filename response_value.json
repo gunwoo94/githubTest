@@ -1,0 +1,71 @@
+{
+	"gpt": "1. RESPONSE STRUCTURE:\n- Section 1: A comprehensive answer to 75QNED85TUA.AUS using ONLY information from <documents>\n- Section 2: A promotion summary and sales pitch using information from <guideline & format>\n\n---\n\n**Section 1: Comprehensive Answer**\n\nThe LG 75-inch Class QNED 4K LED QNED85T series TV with webOS 24, Model # 75QNED85TUA.AUS, is a high-quality television that utilizes a combination of quantum dot and NanoCell technologies alongside Mini LED backlighting. Here are some key features:\n\n- **Picture Quality**: Experience rich dark-level detail with minimal halo effect, sharp and colorful pictures with rich contrast, even in brightly lit rooms.\n- **Refresh Rate**: Keep up with fast action thanks to a 120Hz refresh rate.\n- **Local Dimming Pro**: This feature improves contrast with more precise lighting control.\n- **Processor**: The α8 AI Processor enhances audio and visual clarity.\n- **HDR10 Pro**: Delivers a dramatic visual experience, making your viewing more immersive.\n- **FILMMAKER MODE™**: Enjoy films in their original formatting.\n- **Smart Features**: With webOS & LG Channels, you can easily browse your favorite streaming apps and access over 300 free channels.\n- **Software Updates**: Enjoy up to 5 years of software updates with webOS Re:New.\n\nFor more details, please visit the product page on LG's website.\n\n---\n\nPROMO:\n\n** Epromoter Promotion Notice – Stackable to OBS Promotion, Promo Codes and SMSM Can’t be stacked **\n\nThe 75-Inch Class QNED 4K LED QNED85T series TV with webOS 24, Model Number 75QNED85TUA.AUS, is currently available on Epromoter Promotions for a 10% Off QNED discount. The current price on LG.com is $899.99. With this promotion, you'll receive an additional discount of 10% off, making this an excellent time to purchase. \n\n**Key Features**:\n- Experience rich dark-level detail with minimal halo effect.\n- Enjoy a sharp, colorful picture with rich contrast, even in bright rooms.\n- The 120Hz refresh rate ensures smooth motion for fast-paced content.\n- Local Dimming Pro enhances contrast with precise lighting control.\n- The α8 AI Processor delivers clear sound and crisp picture.\n- HDR10 Pro provides a dramatic visual experience.\n- FILMMAKER MODE™ lets you enjoy films as they were intended.\n- Access your favorite streaming apps and over 300 free channels with webOS & LG Channels.\n- Benefit from up to 5 years of software updates with webOS Re:New.\n\nDon't miss out on this fantastic opportunity to enhance your home entertainment experience! Visit [LG.com](https://www.lg.com/us/tvs/lg-75qned85uqa-qned-4k-tv) to take advantage of this promotion today!"
+}
+{
+	"additional_info": {
+		"intent": "",
+		"ref_doc_name": [
+			"",
+			"",
+			""
+		],
+		"ref_doc_url": [
+			"",
+			"",
+			""
+		],
+		"new_ref_doc_type": [
+			"Youtube Video Script",
+			"Youtube Video Script",
+			"Youtube Video Script"
+		],
+		"new_ref_doc_url": [],
+		"new_ref_doc_name": [],
+		"etc_link_name": [
+			"QnA_TVs_QNED TVs_65QNED85TUA",
+			"QnA_TVs_QNED TVs_65QNED85TUA",
+			"QnA_TVs_QNED TVs_75QNED85UQA"
+		],
+		"etc_link_url": [
+			"",
+			"",
+			""
+		],
+		"ref_doc_score": [
+			1.8748782,
+			1.874878,
+			1.8688841
+		],
+		"call1_prompt_token": 773,
+		"call1_completion_token": 79,
+		"call2_prompt_token": 1685,
+		"call2_completion_token": 617,
+		"time": {
+			"Refinement": 1.1382622718811035,
+			"IR": 2.8940603733062744,
+			"answer": 7.889079332351685,
+			"total": 11.921401977539063
+		},
+		"contexts": [
+			"Questions and Answers for LG QNED 85T Series TV - 65QNED85TUA\n\nQ: Why did LG choose to use the QNED85 terminology on this 2024 TV, since the previous version of the QNED85 (2022) was Mini-LED technology? This caused me great confusion in my purchasing decision, thinking this was a Mini-LED TV.\nA: Hi. LG QNED TVs are LCD-based and use a combination of quantum dot and NanoCell technologies with Mini LED backlighting. Even though the terminology for the LG 65-inch Class QNED 4K LED QNED85T series TV with webOS 24, Model # 65QNED85TUA, does not mention Mini LED backlighting, it still uses Mini LED backlighting as do all other LG QNED TVs. For more information, you can visit the product page at https://www.lg.com/us/tvs/lg-65qned85taa-qned-4k-tv. ^Ivan\n\nQ: Is it the same as the LG QNED 85?\nA: Hey there. Shopping for that perfect LG TV can be tedious. We will need the other TV model number to compare the difference. However, we made it so easy for you to sit back and compare our TV specs and features and make the perfect selection because we all have our differences in what is better. Under the add cart, just toggle the \"COMPARE\" button, and you can compare up to four TVs simultaneously. For more questions, connect to our live agent by clicking the \"Live chat\" button below. ^David\n\nQ: Does webOS 24 support SMB shares (find SMB shares on the local area network and play videos directly from SMB share)? Do webOS24 TVs have Kodi app pre-installed? If not, is Kodi downloadable?\nA: Hi there! WebOS 24 does not support SMB share. However, please refer to the link below for a tutorial on how to share files from your TV to your favorite personal device. They'd have to be on the same network to do so. At the moment, the Kodi app isn't pre-installed on LG TVs, nor is it available on the LG content store. For further support, please reach out to us on social media (@LGUSSupport)! We're always just a few clicks away! ^Chris\nFor more details, please visit https://www.lg.com/us/tvs/lg-65qned85taa-qned-4k-tv.\n\nQ: What is the better TV, the LG QNED 85, 2024, or the LG QNED 85T, 2024?\nA: Hey there. Shopping for that perfect LG TV can be tedious. However, we made it so easy for you to sit back and compare our TV features and make the perfect selection because we all have our differences in what is better. Under the add cart, just toggle the \"COMPARE\" button, and you can compare up to four TVs simultaneously. For more questions, connect to our live agent by clicking the \"Live chat\" button below. ^David\n\nQ: Is this the LG top of the line 85T QNED in the LG lineup at this point of time?\nA: Hey there, Arveien! Our top lineup QNED TV of its Class is the MiniLED, which boasts a rich dark-level detail with minimal halo effect! Furthermore, this 65-inch Class QNED 4K LED QNED85T series TV with webOS 24 would be the second of its top lineup! ^Anthony\n\nQ: When will an ATSC 3.0 (NEXTGEN) broadcast tuner be available?\nA: Hi, DLJags. Regrettably, none of our 2024 LG TVs nor the LG 65-inch Class QNED 4K LED QNED85T series TV with webOS 24, Model # 65QNED85TUA, will feature a NEXTGEN (ATSC 3.0) tuner that was included in all of our flagship OLED and LED TVs for several years in anticipation of the new OTA digital standard becoming the way that all US broadcasters deliver content via antenna. ^Ivan\n\nQ: And do it has Picture Wizard?\nA: Hey there, Arveien! After more research, it seems like this 65QNED85TUA model comes with something other than Picture Wizard. If you have any other questions, please feel free to connect to our live agent by clicking the \"Live chat\" button below, and make sure to include your contact details, model, and serial number. ^Anthony",
+			"Questions and Answers for LG QNED 85T Series TV - 65QNED85TUA\n\nQ: Why did LG choose to use the QNED85 terminology on this 2024 TV, since the previous version of the QNED85 (2022) was Mini-LED technology? This caused me great confusion in my purchasing decision, thinking this was a Mini-LED TV.\nA: Hi. LG QNED TVs are LCD-based and use a combination of quantum dot and NanoCell technologies with Mini LED backlighting. Even though the terminology for the LG 65-inch Class QNED 4K LED QNED85T series TV with webOS 24, Model # 65QNED85TUA, does not mention Mini LED backlighting, it still uses Mini LED backlighting as do all other LG QNED TVs. For more information, you can visit the product page at https://www.lg.com/us/tvs/lg-65qned85taa-qned-4k-tv. ^Ivan\n\nQ: Is it the same as the LG QNED 85?\nA: Hey there. Shopping for that perfect LG TV can be tedious. We will need the other TV model number to compare the difference. However, we made it so easy for you to sit back and compare our TV specs and features and make the perfect selection because we all have our differences in what is better. Under the add cart, just toggle the \"COMPARE\" button, and you can compare up to four TVs simultaneously. For more questions, connect to our live agent by clicking the \"Live chat\" button below. ^David\n\nQ: Does webOS 24 support SMB shares (find SMB shares on the local area network and play videos directly from SMB share)? Do webOS24 TVs have Kodi app pre-installed? If not, is Kodi downloadable?\nA: Hi there! WebOS 24 does not support SMB share. However, please refer to the link below for a tutorial on how to share files from your TV to your favorite personal device. They'd have to be on the same network to do so. At the moment, the Kodi app isn't pre-installed on LG TVs, nor is it available on the LG content store. For further support, please reach out to us on social media (@LGUSSupport)! We're always just a few clicks away! ^Chris\nFor more details, please visit https://www.lg.com/us/tvs/lg-65qned85taa-qned-4k-tv.\n\nQ: What is the better TV, the LG QNED 85, 2024, or the LG QNED 85T, 2024?\nA: Hey there. Shopping for that perfect LG TV can be tedious. However, we made it so easy for you to sit back and compare our TV features and make the perfect selection because we all have our differences in what is better. Under the add cart, just toggle the \"COMPARE\" button, and you can compare up to four TVs simultaneously. For more questions, connect to our live agent by clicking the \"Live chat\" button below. ^David\n\nQ: Is this the LG top of the line 85T QNED in the LG lineup at this point of time?\nA: Hey there, Arveien! Our top lineup QNED TV of its Class is the MiniLED, which boasts a rich dark-level detail with minimal halo effect! Furthermore, this 65-inch Class QNED 4K LED QNED85T series TV with webOS 24 would be the second of its top lineup! ^Anthony\n\nQ: When will an ATSC 3.0 (NEXTGEN) broadcast tuner be available?\nA: Hi, DLJags. Regrettably, none of our 2024 LG TVs nor the LG 65-inch Class QNED 4K LED QNED85T series TV with webOS 24, Model # 65QNED85TUA, will feature a NEXTGEN (ATSC 3.0) tuner that was included in all of our flagship OLED and LED TVs for several years in anticipation of the new OTA digital standard becoming the way that all US broadcasters deliver content via antenna. ^Ivan\n\nQ: And do it has Picture Wizard?\nA: Hey there, Arveien! After more research, it seems like this 65QNED85TUA model comes with something other than Picture Wizard. If you have any other questions, please feel free to connect to our live agent by clicking the \"Live chat\" button below, and make sure to include your contact details, model, and serial number. ^Anthony",
+			"Q: How many dimming zones does the 75QNED85 have?\nA: Hi there! The LG 75 Inch Class QNED85 UQA series MiniLED 4K UHD Smart webOS 22 w/ ThinQ AI TV, Model # 75QNED85UQA features local dimming, but unfortunately, like most TV manufacturers, LG does not disclose the exact number of dimming zones.\n\nQ: HDMI ports?\nA: Yes, this LG TV has an HDMI port. It features an Audio Return Channel (eARC) on HDMI 3, Simplink (HDMI CEC), and HDMI Input (HDCP 2.2) for enhanced connectivity.\n\nQ: How can I add The Roku Channel?\nA: Unfortunately, The Roku Channel is not directly available on LG TVs as they operate on the webOS platform. However, you can use a Roku streaming device by plugging it into the TV to access the Roku platform.\n\nQ: Where can I find the S/N on this TV?\nA: The LG 75 Inch Class QNED85 UQA series MiniLED 4K UHD Smart webOS 22 w/ ThinQ AI TV, Model # 75QNED85UQA, has a nameplate attached to the back of the TV displaying the Country of Manufacture/Assembly, Date of Manufacture, Model Number, and Serial Number.\n\nQ: What is the hybrid stand for the 75QNED85, and is it included?\nA: The only stand available for the LG 75 Inch Class QNED85 UQA series MiniLED 4K UHD Smart webOS 22 w/ ThinQ AI TV, Model # 75QNED85UQA, are the stand legs as shown in the images for the TV.\n\nFor more details, please visit [LG QNED 85 Inch TVs](https://www.lg.com/us/tvs/lg-75qned85uqa-qned-4k-tv)."
+		],
+		"refined_query": "- What information do you need regarding the LG 75QNED85TUA.AUS model?  \n- Can you clarify what you would like to know about the LG 75QNED85TUA.AUS?  \n- What specific details are you looking for concerning the LG 75QNED85TUA.AUS?  \nModel Number: 75QNED85TUA.AUS",
+		"customer_lang": "de",
+		"suggestion_chips": "",
+		"epromo": {
+			"obs_link": "https://www.lg.com/us/promotions/qned-tv-deal",
+			"obs_name": "It’s refund season! Save up to 48% on select QNED TVs.",
+			"epromo_link": [
+				"https://docs.google.com/spreadsheets/d/1Cpb0uOdWFowaaSWaG2ZaKdzaOvMC_cLpUFO9iN6ZHQY/edit?gid=344762379#gid=344762379",
+				"https://docs.google.com/spreadsheets/d/1Cpb0uOdWFowaaSWaG2ZaKdzaOvMC_cLpUFO9iN6ZHQY/edit?gid=834377898#gid=834377898"
+			],
+			"epromo_name": [
+				"8% Off Evergreen Promo",
+				"10% Off QNED"
+			],
+			"pdp_link": "https://www.lg.com/us/tvs/lg-75qned85tua-qned-4k-tv"
+		}
+	}
+}
